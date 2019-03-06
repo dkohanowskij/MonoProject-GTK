@@ -1,0 +1,26 @@
+# user files
+*.user
+*.suo
+*.DotSettings
+.vs/
+
+# msbuild output
+bin/
+obj/
+precompiledOutput/
+
+# tools and tools output
+*.nupkg
+publish/
+!src/.datasources/**/*.exe
+!src/.nuget/**/*.exe
+!src/.build/**/*.exe
+!src/.build/**/*.dll
+
+# msbuild transform output
+web.config
+
+# Cassette Cache
+cassette-cache/
+
+csproj.tmp

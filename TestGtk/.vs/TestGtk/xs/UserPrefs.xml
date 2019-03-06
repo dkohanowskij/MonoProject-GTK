@@ -7,14 +7,18 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="TestGtk\MainWindow.cs">
     <Files>
-      <File FileName="TestGtk\MainWindow.cs" Line="11" Column="5" />
+      <File FileName="TestGtk\MainWindow.cs" Line="28" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TestGtk" expanded="True" selected="True">
+          <Node name="TestGtk" expanded="True">
             <Node name="TestGtk" expanded="True">
-              <Node name="References" expanded="True" />
+              <Node name="References" expanded="True">
+                <Node name="TestLib" selected="True" />
+              </Node>
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
